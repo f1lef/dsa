@@ -1,4 +1,4 @@
-$('.ajax-form').on('submit', function (event) {
+$('telegram-form').on('submit', function (event) {
 
     event.stopPropagation();
     event.preventDefault();
